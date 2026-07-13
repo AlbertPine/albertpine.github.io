@@ -1,12 +1,12 @@
 /* ========== 首页顶部背景图 ========== */
 #page-header {
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('/background4.jpg') no-repeat center center !important;
-  background-size: cover !important;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('/background6.jpeg') no-repeat center center !important;
+  background-size: 100% 100% !important;
 }
 
 /* ========== 全站背景图（带透明度） ========== */
 #web_bg {
-  background: url('/background5.webp') no-repeat center center fixed !important;
+  background: url('/background3.png') no-repeat center center fixed !important;
   background-size: cover !important;
   opacity: 0.4 !important;
   z-index: -1 !important;
