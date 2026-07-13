@@ -6,7 +6,7 @@
 
 /* ========== 全站背景图（带透明度） ========== */
 #web_bg {
-  background: url('/background3.png') no-repeat center center fixed !important;
+  background: url('/background5.webp') no-repeat center center fixed !important;
   background-size: cover !important;
   opacity: 0.4 !important;
   z-index: -1 !important;
